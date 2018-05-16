@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Partiel2018GABA</string>
+    <string name="base_url_api">https://my-json-server.typicode.com/lpotherat/discogs-data/releases</string>
+</resources>
